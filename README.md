@@ -1,3 +1,7 @@
+**Official website:** [https://www.openclawhirehuman.com/](https://www.openclawhirehuman.com/) (ClearPDF)
+
+Collected and curated by the ClearPDF team. **Submissions are welcome.** [Open an issue](https://github.com/c1a1o1/local-file-tool-test-kit/issues/new) to suggest a resource or correction, or [submit a pull request](https://github.com/c1a1o1/local-file-tool-test-kit/pulls) with a proposed edit. Include a source link, a short explanation, and any affiliation. We review submissions before adding them.
+
 # Local File Tool Test Kit
 
 Generate synthetic fixtures and check the result of a browser file workflow without using private data. The Python 3 generator uses only the standard library and no network.
